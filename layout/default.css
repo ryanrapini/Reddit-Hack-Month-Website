@@ -30,8 +30,13 @@ p, ul, ol {
 	margin-top: 10px;
 }
 
+a  {
+	color: #5bec83;
+}
+
 /* Header */
 #header {
+	background: url(/hackmonth/images/gradient1.png) repeat-x left top;
 	width: 100%;
 	padding: 10px 10px 0px 10px;
 }
