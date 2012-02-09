@@ -5,7 +5,7 @@
 				<a class="brand" href="index.php">
 					HackMonth 2012
 				</a>
-				<li><a href="index.php">Home</a></li>
+				<li><a href="./">Home</a></li>
 				<li><a href="about.php">About</a></li>
 				<li><a href="http://www.reddit.com/r/hackmonth">Official Subreddit</a></li>
 				<li><a href="getinvolved.php">Get Involved</a></li>
