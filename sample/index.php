@@ -20,7 +20,7 @@
 			<h1>HackMonth 2012</h1>
 			<h3>Coming this August</h3>
 			<p>HackMonth is a community of programmers, engineers, and hackers who have come together to devote one month to collaborative and individual projects. In the style of <a href="http://www.nanowrimo.org/">National Novel Writing Month</a>, Hack Month participants arrange for themselves a set of objectives and aim to complete them before the month is through. The goal: to create a working prototype of their intended project, or to learn a new and useful skill. To take part in HackMonth you must answer one question: what will you make of it?</p>
-			<a href="about.html" class='btn btn-primary btn-large' style="width: 400px;">Learn More</a>
+			<a href="about.php" class='btn btn-primary btn-large' style="width: 400px;">Learn More</a>
 		</div>
 		<hr />
 		<h2>Recent News</h2>

@@ -7,6 +7,10 @@
 				padding-left: 50px;
 				padding-right: 50px;
 			}
+			p
+			{
+				text-align: justify;
+			}
 		</style>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 		<title>HackMonth 2012 - Home</title>
