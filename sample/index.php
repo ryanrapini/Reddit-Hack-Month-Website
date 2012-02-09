@@ -14,21 +14,7 @@
 		<script type="text/javascript" src="layout/bootstrap.js"></script>
 	</head>
 	<body>
-		<div class="navbar navbar-fixed-top">
-  			<div class="navbar-inner">
-    			<div class="container">
-    				<ul class="nav">
-    					<a class="brand" href="index.html">
-    						HackMonth 2012
-    					</a>
-  						<li><a href="index.html">Home</a></li>
-  						<li><a href="about.html">About</a></li>
-  						<li><a href="http://www.reddit.com/r/hackmonth">Official Subreddit</a></li>
-  						<li><a href="#">Get Involved</a></li>
-					</ul>
-    			</div>
-  			</div>
-		</div>
+		<?php include('includes/header.include'); ?>
 		<div class="container-fluid">
 
 		<div class="hero-unit">
@@ -45,15 +31,19 @@
 			<div class="span4">
 				<h3>Official IRC Up!</h3>
 				<a href="http://redd.it/pgbkg"><span class="label label-info">Reddit Thread</span></a>
-				<p>The server details are: irc.freenode.net:6667
-				The room is: #hackmonth
-				If you need help joining IRC, try reading 
+				<p>The server details are: 
+<pre>
+Server:
+irc.freenode.net:6667
+Room:
+#hackmonth</pre>
+				If you aren't familiar with IRC, try reading <a href="http://www.irchelp.org/irchelp/irctutorial.html">The irchelp.org Tutorial</a>, or just ask for help in the channel!
 				</p>
 			</div>
 			<div class="span4">
-				<h3>Name of Project</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non justo sit amet est mollis vestibulum auctor in elit. Nunc sollicitudin felis in urna hendrerit nec condimentum dolor posuere. Donec adipiscing auctor felis vehicula condimentum. Phasellus tristique hendrerit justo, vitae tincidunt augue cursus ut. Pellentesque vitae rutrum elit.</p>
-				<a href="/project.html" class='btn'>Read More</a>
+				<h3>Website - Help Needed</h3>
+				<p>Work has (obviously) begun on the official website! If you want to help, hop onto the IRC channel and ask what you can do!
+				</p><p>Work is being sourced on GitHub, before you start working you should <a href="https://github.com/ryanrapini/Reddit-Hack-Month-Website">fork the main repo</a>.</p>
 			</div>
 			<div class="span4">
 				<h3>Name of Project</h3>
@@ -64,6 +54,6 @@
 		</div>
 		<hr />
 			<p>Copyright &copy;2012 HackMonth</p>
-
+			<p>This website is open-source! Fork me on <a href="https://github.com/ryanrapini/Reddit-Hack-Month-Website">Github!</a>
 	</body>
 </html>						

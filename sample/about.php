@@ -14,26 +14,16 @@
 		<script type="text/javascript" src="layout/bootstrap.js"></script>
 	</head>
 	<body>
-		<div class="navbar navbar-fixed-top">
-  			<div class="navbar-inner">
-    			<div class="container">
-    				<ul class="nav">
-    					<a class="brand" href="index.html">
-    						HackMonth 2012
-    					</a>
-  						<li><a href="index.html">Home</a></li>
-  						<li><a href="about.html">About</a></li>
-  						<li><a href="http://www.reddit.com/r/hackmonth">Official Subreddit</a></li>
-  						<li><a href="#">Get Involved</a></li>
-					</ul>
-    			</div>
-  			</div>
-		</div>
+		<?php include('includes/header.include'); ?>
 
-		<h1>About Hackmonth</h1>
+		<div class="container-fluid">
+		<div class="row-fluid">
 		<br />
-		<div class="row">
-			<div class="span12">
+		<h1>About Hackmonth</h1>
+
+		
+		
+			<div class="span8">
 				<h3>What is Hack Month?</h3>
 				<p>Hack Month is an open-source, collaborative event inspired by the popular writing event "<a href="http://www.nanowrimo.org/">NaNoWriMo</a>". NaNoWriMo is a national event encouraging participants to reach a goal of 50,000 words in 30 days. Hack Month is an attempt to achieve a similar goal. We aim to bring programmers, engineers, designers, and hackers to together to start and finish their own individual projects in one month.</p>
 
@@ -49,9 +39,11 @@
 
 				<p>If you're interested, <a href="http://www.reddit.com/r/hackmonth/comments/pc3u7/hack_month_how_to_participate/">click here</a> to learn about participating in Hack Month 2012. The more people we have involved, the more exciting and diverse this event will become.</p>
 			</div>
+			<div class="span4">
 			
+			</div>
 		</div>
-
+		</div>
 		<hr />
 			<p>Copyright &copy;2012 HackMonth</p>
 
