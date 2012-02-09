@@ -44,8 +44,7 @@
 			</div>
 		</div>
 		</div>
-		<hr />
-			<p>Copyright &copy;2012 HackMonth</p>
+		<?php include('includes/footer.include'); ?>
 
 	</body>
 </html>						

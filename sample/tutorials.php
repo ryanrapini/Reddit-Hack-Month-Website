@@ -28,8 +28,6 @@
 
 		</div>
 
-		<hr />
-			<p>Copyright &copy;2012 HackMonth</p>
-			<p>This website is open-source! Fork me on <a href="https://github.com/ryanrapini/Reddit-Hack-Month-Website">Github!</a>
+		<?php include('includes/footer.include'); ?>
 	</body>
 </html>						
