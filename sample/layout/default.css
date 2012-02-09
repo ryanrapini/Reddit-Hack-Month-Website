@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #dadada;
+	background-color: #3b3b3b;
+}
+
+h1, h2, h3 {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 1.6em;
+}
+
+h3 {
+	font-size: 1.3em;
+    padding: 5px;
+}
+
+p, ul, ol {
+	margin-top: 10px;
+}
+
+a  {
+	color: #5bec83;
+}
+
+/* Header */
+#header {
+	background: url(/hackmonth/images/gradient1.png) repeat-x left top;
+	width: 100%;
+	padding: 10px 10px 0px 10px;
+}
+
+/* Content */
+#content {
+	float: left;
+	width: 100%;	
+}
+
+/* Sidebar */
+#sidebar {
+	float: left;
+	width: 20%;	
+}
+
+/* Main */
+#main {
+	float: right;
+	width: 80%;	
+}
