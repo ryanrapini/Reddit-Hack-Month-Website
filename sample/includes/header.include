@@ -2,7 +2,7 @@
 	<div class="navbar-inner">
 		<div class="container">
 			<ul class="nav">
-				<a class="brand" href="index.html">
+				<a class="brand" href="index.php">
 					HackMonth 2012
 				</a>
 				<li><a href="index.php">Home</a></li>
