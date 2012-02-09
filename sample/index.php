@@ -32,7 +32,7 @@
 				<h3>Where can I learn more?</h3>
 				<p>The bulk of the discussion about this event can be found over on reddit. Don't know where to go? Click this unnecessarily large button:<br>
 				</p>
-				<a href="http://www.reddit.com/r/hackmonth/" class="btn btn-large btn-primary">Official Subreddit<a/>
+				<a href="http://www.reddit.com/r/hackmonth/" class="btn btn-large btn-primary">Official Subreddit</a>
 			</div>
 			<div class="span4">
 				<h3>Official IRC Up!</h3>
@@ -43,8 +43,10 @@ Server:
 irc.freenode.net:6667
 Room:
 #hackmonth</pre>
-				If you aren't familiar with IRC, try reading <a href="http://www.irchelp.org/irchelp/irctutorial.html">The irchelp.org Tutorial</a>, or just ask for help in the channel!
+				If you aren't familiar with IRC, you can try reading <a href="http://www.irchelp.org/irchelp/irctutorial.html">The irchelp.org Tutorial</a>, or just ask for help in the channel!
 				</p>
+				<a href="http://webchat.freenode.net/?channels=#hackmonth" class="btn btn-primary">Chat Now!</a>
+				
 			</div>
 			<div class="span4">
 				<h3>Website - Help Needed</h3>
