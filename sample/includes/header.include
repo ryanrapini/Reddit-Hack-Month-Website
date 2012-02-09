@@ -5,11 +5,11 @@
 				<a class="brand" href="index.html">
 					HackMonth 2012
 				</a>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="about.php">About</a></li>
 				<li><a href="http://www.reddit.com/r/hackmonth">Official Subreddit</a></li>
-				<li><a href="getinvolved.html">Get Involved</a></li>
-				<li><a href="tutorials.html">Help and Tutorials</a></li>
+				<li><a href="getinvolved.php">Get Involved</a></li>
+				<li><a href="tutorials.php">Help and Tutorials</a></li>
 			</ul>
 		</div>
 	</div>
