@@ -19,6 +19,11 @@
 
 		<div class="hero-unit">
 			<p>Coming soon...</p>
+				<div class="progress progress-info
+				progress-striped active">
+				<div class="bar"
+				style="width: 50%;"></div>
+				</div>
 		</div>
 
 		</div>
