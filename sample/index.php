@@ -29,6 +29,12 @@
 		
 		<div class="row-fluid">
 			<div class="span4">
+				<h3>Where can I learn more?</h3>
+				<p>The bulk of the discussion about this event can be found over on reddit. Don't know where to go? Click this unnecessarily large button:<br>
+				</p>
+				<a href="http://www.reddit.com/r/hackmonth/" class="btn btn-large btn-primary">Official Subreddit<a/>
+			</div>
+			<div class="span4">
 				<h3>Official IRC Up!</h3>
 				<a href="http://redd.it/pgbkg"><span class="label label-info">Reddit Thread</span></a>
 				<p>The server details are: 
@@ -45,11 +51,7 @@ Room:
 				<p>Work has (obviously) begun on the official website! If you want to help, hop onto the IRC channel and ask what you can do!
 				</p><p>Work is being sourced on GitHub, before you start working you should <a href="https://github.com/ryanrapini/Reddit-Hack-Month-Website">fork the main repo</a>.</p>
 			</div>
-			<div class="span4">
-				<h3>Name of Project</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non justo sit amet est mollis vestibulum auctor in elit. Nunc sollicitudin felis in urna hendrerit nec condimentum dolor posuere. Donec adipiscing auctor felis vehicula condimentum. Phasellus tristique hendrerit justo, vitae tincidunt augue cursus ut. Pellentesque vitae rutrum elit.</p>
-				<a href="/project.html" class='btn'>Read More</a>
-			</div>
+
 		</div>
 		</div>
 		<hr />
