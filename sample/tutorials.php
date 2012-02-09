@@ -10,8 +10,7 @@
 		</style>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 		<title>HackMonth 2012 - Home</title>
-		<link href="layout/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen" />
-		<script type="text/javascript" src="layout/bootstrap.js"></script>
+		<?php include('includes/scripts.include'); ?>
 	</head>
 	<body>
 		<?php include('includes/header.include'); ?>
