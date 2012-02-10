@@ -5,6 +5,7 @@ gem 'mysql2'
 gem 'heroku'
 gem 'rspec'
 gem 'rspec-rails'
+gem 'uuidtools'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
