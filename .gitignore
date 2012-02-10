@@ -1,3 +1,4 @@
 config/database.yml*
 tmp/cache*
 log/*
+*~
