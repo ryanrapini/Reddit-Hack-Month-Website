@@ -2,3 +2,4 @@ config/database.yml*
 tmp/cache*
 log/*
 *~
+db/schema.rb*
