@@ -53,6 +53,11 @@
 								<td>"Real World Haskell takes you through the basics of functional programming at a brisk pace, and then helps you increase your understanding of Haskell in real-world issues like I/O, performance, dealing with data, concurrency, and more as you move through each chapter." (Free Online)</td>
 								<td>Haskell</td>
 							</tr>
+							<tr>
+								<td><a href="http://thenewboston.org/">thenewboston Education</a></td>
+								<td>A large selection of video tutorials covering many platforms and languages.</td>
+								<td>*</td>
+							</tr>
 							
 						</tbody>
 					</table>
