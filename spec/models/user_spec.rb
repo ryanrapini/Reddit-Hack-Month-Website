@@ -9,5 +9,9 @@ describe User do
     it "requires a password" do
         User.authenticate('user', nil).should == nil
     end
+
+    it "requires a valid user" do
+      User.authenticate('nonexistinguser', 'badpassword').should == nil
+    end
   end
 end

@@ -7,6 +7,7 @@ gem 'rspec'
 gem 'rspec-rails'
 gem 'uuidtools'
 gem 'sqlite3'
+gem 'rspec-mocks'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
